@@ -31,11 +31,11 @@
 <br>
 
 ## :dart: About ##
-a 
+customize user and Authentication
 ## :sparkles: Features ##
 
 :heavy_check_mark: customize user \
-:heavy_check_mark: django restframework \
+:heavy_check_mark: Django REST framework \
 :heavy_check_mark: jwt
 
 ## :rocket: Technologies ##
@@ -47,7 +47,7 @@ The following tools were used in this project:
 - html css
 - docker
 - jwt
-- Django restframework
+- Django REST framework
 ## :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have Git and python installed.
