@@ -31,12 +31,12 @@
 <br>
 
 ## :dart: About ##
-a online shop using django and Jinja2 
+a 
 ## :sparkles: Features ##
 
-:heavy_check_mark: customize user , otp sms \
-:heavy_check_mark: discount coupon \
-:heavy_check_mark: Zarin Pal payment gateway, Arvan Cloud's cloud space  
+:heavy_check_mark: customize user \
+:heavy_check_mark: django restframework \
+:heavy_check_mark: jwt
 
 ## :rocket: Technologies ##
 
@@ -44,13 +44,10 @@ The following tools were used in this project:
 
 - Python
 - Django
-- Zarinpal
 - html css
-- Jinja2
 - docker
-- arvan clode
-- sms otp sign up
-
+- jwt
+- Django restframework
 ## :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have Git and python installed.
