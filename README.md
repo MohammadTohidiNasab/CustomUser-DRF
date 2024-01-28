@@ -44,7 +44,6 @@ The following tools were used in this project:
 
 - Python
 - Django
-- html css
 - docker
 - jwt
 - Django REST framework
