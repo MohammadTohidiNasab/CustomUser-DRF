@@ -55,10 +55,12 @@ Before starting :checkered_flag:, you need to have Git and python installed.
 
 ```bash
 # Clone this project
-$ git clone https://github.com/MohammadTohidiNasab/OnlineShop
+$ git clone https://github.com/MohammadTohidiNasab/CustomUser-DRF
+
 
 # Access
-$ cd onlineshop
+$ cd  CustomUser-DRF
+
 
 # Install requirments.txt
 $ pip install -r requirments.txt
