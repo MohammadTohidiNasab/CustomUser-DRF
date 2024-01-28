@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="OnlineShop" />
+  <img src="./.github/app.gif" alt="Custom Jwt Authentication" />
 
   &#xa0;
 
