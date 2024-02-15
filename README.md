@@ -38,6 +38,19 @@ customize user and Authentication
 :heavy_check_mark: Django REST framework \
 :heavy_check_mark: jwt
 
+
+:heavy_check_mark: Django LTS
+:heavy_check_mark: Custom User Model
+:heavy_check_mark: Profile model
+:heavy_check_mark: Signal attachments
+:heavy_check_mark: Django RestFramework
+:heavy_check_mark: Token Authentication
+:heavy_check_mark: JWT Authentication
+:heavy_check_mark: APi Docs
+:heavy_check_mark: Black
+:heavy_check_mark: Flake8
+:heavy_check_mark: Tests
+
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
